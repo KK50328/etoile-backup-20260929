@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="378" height="85" viewBox="0 0 378 85" role="img" aria-label="ÉTOILE PÂTISSERIE">
+  <rect width="378" height="85" fill="#f7f3eb"/>
+  <g transform="translate(18 18)" fill="#b28b4b">
+    <path d="M22 0 27 17l17 5-17 5-5 17-5-17L0 22l17-5z"/>
+    <circle cx="22" cy="22" r="4" fill="#f7f3eb"/>
+  </g>
+  <text x="78" y="42" fill="#38261d" font-family="Georgia, Times New Roman, serif" font-size="31" letter-spacing="5">ÉTOILE</text>
+  <text x="81" y="61" fill="#765d45" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="5.2">PÂTISSERIE</text>
+</svg>
